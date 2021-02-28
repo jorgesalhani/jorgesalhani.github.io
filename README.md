@@ -7,6 +7,8 @@ My intentions with this page are:
 
 ### Computer Sciences
 
+[Introduction to Data Science](https://github.com/jorgesalhani/IntroDataScience)
+
 ### Basic Physics
 
 ### Biomolecular Physics
