@@ -16,6 +16,10 @@ My intentions with this page are:
 
 [Computational Statistical Physics](https://github.com/jorgesalhani/CompStatPhysics)
 
+### Miscellaneous
+
+[HTML and CSS - First Steps](https://github.com/jorgesalhani/LearningCSS_HTML)
+
 ### Support or Contact
 
 mail-me: jorge.salhani@usp.br
