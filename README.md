@@ -5,7 +5,9 @@ My intentions with this page are:
 2.  Undergraduate projects - Computer Sciences
 3.  Master projects - Basic Physics
 
-### Markdown
+### Biomolecular Physics
+
+[Computational Statistial Physics](https://github.com/jorgesalhani/CompStatPhysics)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
