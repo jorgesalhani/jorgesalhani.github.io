@@ -1,4 +1,4 @@
-## Welcome to my page
+# Presenting: My Page
 
 My intentions with this page are:
 1.  Undergraduate projects - Biomolecular Physics
