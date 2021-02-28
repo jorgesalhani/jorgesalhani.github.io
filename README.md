@@ -1,4 +1,4 @@
-## Glad to find you here
+## Welcome!
 
 My intentions with this page are:
 1.  Undergraduate projects - Biomolecular Physics
