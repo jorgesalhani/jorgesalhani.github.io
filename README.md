@@ -1,9 +1,9 @@
 ## Welcome to my page
 
 My intentions with this page are:
-1.  Undegraduate projects
-2.  Master projects
-3.  Master thesis and code
+1.  Undergraduate projects - Biomolecular Physics
+2.  Undergraduate projects - Computer Sciences
+3.  Master projects - Basic Physics
 
 ### Markdown
 
