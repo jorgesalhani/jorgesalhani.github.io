@@ -1,12 +1,10 @@
 # Glad to find you here
 
-```markdown
 My intentions with this page are:
 1.  Undergraduate projects - Biomolecular Physics
 2.  Undergraduate projects - Computer Sciences
 3.  Master projects - Basic Physics
 5.  Miscellaneous
-```
 
 ### Computer Sciences
 
