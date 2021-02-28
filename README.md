@@ -7,7 +7,7 @@ My intentions with this page are:
 
 ### Biomolecular Physics
 
-[Computational Statistial Physics](https://github.com/jorgesalhani/CompStatPhysics)
+[Computational Statistical Physics](https://github.com/jorgesalhani/CompStatPhysics)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
