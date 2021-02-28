@@ -5,28 +5,17 @@ My intentions with this page are:
 2.  Undergraduate projects - Computer Sciences
 3.  Master projects - Basic Physics
 
+### Computer Sciences
+
+### Basic Physics
+
 ### Biomolecular Physics
 
 [Computational Statistical Physics](https://github.com/jorgesalhani/CompStatPhysics)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Block... :D
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
