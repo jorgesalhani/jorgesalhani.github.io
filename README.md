@@ -12,6 +12,8 @@ My intentions with this page are:
 
 ### Basic Physics
 
+[Mechanical Statistics](https://github.com/jorgesalhani/MechaStats)
+
 ### Biomolecular Physics
 
 [Computational Statistical Physics](https://github.com/jorgesalhani/CompStatPhysics)
