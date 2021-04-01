@@ -12,11 +12,12 @@ My intentions with this page are:
 
 ### Basic Physics
 
-[Mechanical Statistics](https://github.com/jorgesalhani/MechaStats)
+[Mechanical Statistics](https://github.com/jorgesalhani/MechanicalStatistics)
+[Monte Carlo Methods](https://github.com/jorgesalhani/MonteCarloMethods)
 
 ### Biomolecular Physics
 
-[Computational Statistical Physics](https://github.com/jorgesalhani/CompStatPhysics)
+[Computational Statistical Physics](https://github.com/jorgesalhani/CompStatatisticalPhysics)
 
 ### Miscellaneous
 
