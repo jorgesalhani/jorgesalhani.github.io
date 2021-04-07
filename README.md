@@ -16,6 +16,8 @@ My intentions with this page are:
 
 [Monte Carlo Methods](https://github.com/jorgesalhani/MonteCarloMethods)
 
+[Dynamical Process in Complex Networks](https://github.com/jorgesalhani/ComplexNetworkDynamics)
+
 ### Biomolecular Physics
 
 [Computational Statistical Physics](https://github.com/jorgesalhani/CompStatatisticalPhysics)
