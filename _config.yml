@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: FRIENDLY MEMORY
-description: Keeping my mind's backup since 2021
+description: Keeping my mind's backup since 2021aa
 author: Jorge Salgado
 
 navbar-links:
@@ -11,7 +11,7 @@ navbar-links:
   Author's home: "https://jorgesalhani.github.io/"
 
 social-network-links:
-  email: "someone@example.com"
+  email: "jorge.salhani@usp.br"
   github: https://github.com/jorgesalhani
   medium: jorgesalhani
   linkedin: jorgeaugustosalgado
