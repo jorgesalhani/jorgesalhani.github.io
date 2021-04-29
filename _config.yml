@@ -1,5 +1,11 @@
 theme: jekyll-theme-minimal
 title: FRIENDLY MEMORY
 description: Keeping my mind's backup since 2021
+author: Jorge Salgado
 
-medias: http://lattes.cnpq.br/1267313288850749
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: " http://lattes.cnpq.br/1267313288850749"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://jorgesalhani.github.io/"
