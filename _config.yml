@@ -9,3 +9,9 @@ navbar-links:
     - Beautiful Jekyll: " http://lattes.cnpq.br/1267313288850749"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://jorgesalhani.github.io/"
+
+social-network-links:
+  email: "someone@example.com"
+  github: https://github.com/jorgesalhani
+  medium: jorgesalhani
+  linkedin: jorgeaugustosalgado
