@@ -29,6 +29,8 @@ My intentions with this page are:
 
 [HTML and CSS - First Steps](https://github.com/jorgesalhani/LearningCSS_HTML)
 
+[JS - First Steps](https://www.w3schools.com/js/DEFAULT.asp)
+
 ### Support or Contact
 
 mail-me: jorge.salhani@usp.br
