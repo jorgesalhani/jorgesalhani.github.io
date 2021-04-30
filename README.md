@@ -29,7 +29,7 @@ My intentions with this page are:
 
 [First Steps - HTML and CSS](https://github.com/jorgesalhani/LearningCSS_HTML)
 
-[First Steps - JS](https://javascript.info/)
+[First Steps - JS](https://github.com/jorgesalhani/LearningJS)
 
 ### Support or Contact
 
