@@ -1,10 +1,10 @@
 ## Welcome!
 
-My intentions with this page are:
+My intention with this page is to keep my:
 1.  Undergraduate projects - Computer Sciences 
 2.  Master projects - Basic Physics
 3.  Undergraduate projects - Biomolecular Physics
-4.  Miscellaneous
+4.  Miscellaneous 
 
 ### Computer Sciences
 
