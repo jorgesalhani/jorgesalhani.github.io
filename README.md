@@ -12,9 +12,9 @@ My intention with this page is to keep my:
 
 [Introduction to Web Development](https://github.com/jorgesalhani/IntroWebDevelopment)
 
-1. [Cakery - We Sell Cake!](https://github.com/jorgesalhani/StoreWebProject)
+1. [Cakery - We Sell Cake!](https://github.com/jorgesalhani/StoreWebProject) TODO
 
-[Special Topics on Computer Systems](https://github.com/jorgesalhani/SocialNetworkBlockchain)
+[Special Topics on Computer Systems](https://github.com/jorgesalhani/SocialNetworkBlockchain) TODO
 
 ### Basic Physics
 
@@ -32,7 +32,7 @@ My intention with this page is to keep my:
 
 [First Steps - HTML and CSS](https://github.com/jorgesalhani/LearningCSS_HTML)
 
-[First Steps - JS](https://github.com/jorgesalhani/LearningJS)
+[First Steps - JS](https://github.com/jorgesalhani/LearningJS) TODO
 
 ### Support or Contact
 
