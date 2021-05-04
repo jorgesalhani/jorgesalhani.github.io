@@ -14,6 +14,8 @@ My intentions with this page are:
 
 1. [Cakery - We Sell Cake!](https://github.com/jorgesalhani/StoreWebProject)
 
+[Special Topics on Computer Systems](https://github.com/jorgesalhani/SocialNetworkBlockchain)
+
 ### Basic Physics
 
 [Mechanical Statistics](https://github.com/jorgesalhani/MechanicalStatistics)
