@@ -12,9 +12,7 @@ My intentions with this page are:
 
 [Introduction to Web Development](https://github.com/jorgesalhani/IntroWebDevelopment)
 
-#### WEB Project
-
-[Cakery - We Sell Cake!](https://github.com/jorgesalhani/StoreWebProject)
+1. [Cakery - We Sell Cake!](https://github.com/jorgesalhani/StoreWebProject)
 
 ### Basic Physics
 
