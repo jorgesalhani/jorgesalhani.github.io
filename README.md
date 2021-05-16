@@ -32,7 +32,7 @@ My intention with this page is to keep my:
 
 [First Steps - HTML and CSS](https://github.com/jorgesalhani/LearningCSS_HTML)
 
-[First Steps - JS](https://github.com/jorgesalhani/LearningJS) TODO
+[First Steps - JS](https://github.com/jorgesalhani/LearningJS)
 
 ### Support or Contact
 
