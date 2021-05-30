@@ -30,9 +30,11 @@ My intention with this page is to keep my:
 
 ### Miscellaneous
 
-[First Steps - HTML and CSS](https://github.com/jorgesalhani/LearningCSS_HTML)
+[HTML and CSS - First Steps](https://github.com/jorgesalhani/LearningCSS_HTML)
 
-[First Steps - JS](https://github.com/jorgesalhani/LearningJS)
+[JVS - First Steps](https://github.com/jorgesalhani/LearningJS)
+
+[JVS - Object Oriented](https://www.youtube.com/watch?v=4l3bTDlT6ZI&list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7&index=1)
 
 ### Support or Contact
 
