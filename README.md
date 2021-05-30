@@ -34,7 +34,7 @@ My intention with this page is to keep my:
 
 [JVS - First Steps](https://github.com/jorgesalhani/LearningJS)
 
-[JVS - Object Oriented](https://www.youtube.com/watch?v=4l3bTDlT6ZI&list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7&index=1)
+[JVS - Object Oriented](https://github.com/jorgesalhani/LearningJVS-ObjectOriented)
 
 ### Support or Contact
 
