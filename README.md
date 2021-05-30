@@ -34,7 +34,7 @@ My intention with this page is to keep my:
 
 [JVS - First Steps](https://github.com/jorgesalhani/LearningJS)
 
-[JVS - Object Oriented](https://github.com/jorgesalhani/LearningJVS-ObjectOriented)
+[Node.js - First Steps](https://github.com/jorgesalhani/LearningJVS-ObjectOriented)
 
 ### Support or Contact
 
