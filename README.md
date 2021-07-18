@@ -16,6 +16,8 @@ My intention with this page is to keep my:
 
 [Special Topics on Computer Systems](https://github.com/jorgesalhani/SocialNetworkBlockchain) TODO
 
+[Information Systems](https://github.com/jorgesalhani/InformationSystems)
+
 ### Basic Physics
 
 [Mechanical Statistics](https://github.com/jorgesalhani/MechanicalStatistics)
