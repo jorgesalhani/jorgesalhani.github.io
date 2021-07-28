@@ -14,7 +14,7 @@ My intention with this page is to keep my:
 
 1. [Cakery - We Sell Cake!](https://github.com/jorgesalhani/StoreWebProject) TODO
 
-[Special Topics on Computer Systems](https://github.com/jorgesalhani/SocialNetworkBlockchain) TODO
+[Special Topics on Computer Systems](https://github.com/jorgesalhani/SocialNetworkBlockchain)
 
 [Information Systems](https://github.com/jorgesalhani/InformationSystems)
 
