@@ -12,7 +12,7 @@ My intention with this page is to keep my:
 
 [Introduction to Web Development](https://github.com/jorgesalhani/IntroWebDevelopment)
 
-1. [Cakery - We Sell Cake!](https://github.com/jorgesalhani/StoreWebProject) TODO
+1. [Cakery - We Sell Cake!](https://github.com/jorgesalhani/StoreWebProject) 
 
 [Special Topics on Computer Systems](https://github.com/jorgesalhani/SocialNetworkBlockchain)
 
@@ -41,6 +41,8 @@ My intention with this page is to keep my:
 [React.js - First Steps](https://github.com/jorgesalhani/LearningReactjs)
 
 [JSON and AJAX - First Steps](https://github.com/jorgesalhani/LearningAjax)
+
+[FastAPI - First Steps](https://github.com/jorgesalhani/LearningFastAPI)
 
 ### Support or Contact
 
