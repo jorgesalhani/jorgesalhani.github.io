@@ -18,6 +18,8 @@ My intention with this page is to keep my:
 
 [Information Systems](https://github.com/jorgesalhani/InformationSystems)
 
+[Introduction to Computer Science II](https://github.com/jorgesalhani/IntroCienciaComp2)
+
 ### Basic Physics
 
 [Mechanical Statistics](https://github.com/jorgesalhani/MechanicalStatistics)
