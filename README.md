@@ -22,6 +22,12 @@ My intention with this page is to keep my:
 
 ### Basic Physics
 
+#### Master Thesis
+
+[Modeling Brainstorming with Blackboard Systems](https://www.teses.usp.br/teses/disponiveis/76/76131/tde-09092021-115733/pt-br.php#referencias)
+
+#### Graduate disciplines
+
 [Mechanical Statistics](https://github.com/jorgesalhani/MechanicalStatistics)
 
 [Monte Carlo Methods](https://github.com/jorgesalhani/MonteCarloMethods)
