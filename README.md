@@ -24,7 +24,7 @@ My intention with this page is to keep my:
 
 #### Master Thesis
 
-[Modeling Brainstorming with Blackboard Systems](https://www.teses.usp.br/teses/disponiveis/76/76131/tde-09092021-115733/pt-br.php#referencias)
+[Modeling Brainstorming with Blackboard Systems](https://github.com/jorgesalhani/BlackboardSystems)
 
 #### Graduate disciplines
 
