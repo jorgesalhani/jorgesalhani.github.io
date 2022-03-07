@@ -42,7 +42,7 @@ My intention with this page is to keep my:
 
 [HTML and CSS - First Steps](https://github.com/jorgesalhani/LearningCSS_HTML)
 
-[JVS - First Steps](https://github.com/jorgesalhani/LearningJS)
+[JavaScript - First Steps](https://github.com/jorgesalhani/LearningJS)
 
 [Node.js - First Steps](https://github.com/jorgesalhani/LearningNodeJs)
 
