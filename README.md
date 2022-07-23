@@ -52,6 +52,8 @@ My intention with this page is to keep my:
 
 [FastAPI - First Steps](https://github.com/jorgesalhani/LearningFastAPI)
 
+[Haskell - First Steps](https://github.com/jorgesalhani/LearningHaskell)
+
 ### Support or Contact
 
 mail-me: jorge.salhani@usp.br
