@@ -20,6 +20,8 @@ My intention with this page is to keep my:
 
 [Introduction to Computer Science II](https://github.com/jorgesalhani/IntroCienciaComp2)
 
+[Statistics](https://jorgesalhani.github.io/Statistics/)
+
 ### Basic Physics
 
 #### Master Thesis
