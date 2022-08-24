@@ -22,6 +22,8 @@ My intention with this page is to keep my:
 
 [Statistics](https://github.com/jorgesalhani/Statistics/)
 
+[Discrete Mathematics 1](https://github.com/jorgesalhani/DiscreteMaths1/)
+
 ### Basic Physics
 
 #### Master Thesis
