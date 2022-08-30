@@ -26,6 +26,8 @@ My intention with this page is to keep my:
 
 [Algorithms and Data Structures I](https://github.com/jorgesalhani/AlgorithmsDataStructure1)
 
+[Linear Algebra and Applications](https://github.com/jorgesalhani/LinearAlgebraApplications)
+
 ### Basic Physics
 
 #### Master Thesis
