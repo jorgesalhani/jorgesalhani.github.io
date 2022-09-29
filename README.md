@@ -12,7 +12,7 @@ My intention with this page is to keep my:
 
 [Introduction to Web Development](https://github.com/jorgesalhani/IntroWebDevelopment)
 
-1. [Cakery - We Sell Cake!](https://github.com/jorgesalhani/StoreWebProject) 
+- [Cakery - We Sell Cake!](https://github.com/jorgesalhani/StoreWebProject) 
 
 [Special Topics on Computer Systems](https://github.com/jorgesalhani/SocialNetworkBlockchain)
 
@@ -25,6 +25,8 @@ My intention with this page is to keep my:
 [Discrete Mathematics I](https://github.com/jorgesalhani/DiscreteMaths1/)
 
 [Algorithms and Data Structures I](https://github.com/jorgesalhani/AlgorithmsDataStructure1)
+
+- [Travelling Sales Person](https://github.com/jorgesalhani/TravellingSalesPerson) 
 
 [Linear Algebra and Applications](https://github.com/jorgesalhani/LinearAlgebraApplications)
 
