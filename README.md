@@ -28,6 +28,8 @@ My intention with this page is to keep my:
 
 - [Travelling Sales Person](https://github.com/jorgesalhani/TravellingSalesPerson) 
 
+- [Set Operations](https://github.com/jorgesalhani/SetOperations) 
+
 [Linear Algebra and Applications](https://github.com/jorgesalhani/LinearAlgebraApplications)
 
 ### Basic Physics
