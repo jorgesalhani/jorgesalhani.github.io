@@ -48,6 +48,8 @@ My intention with this page is to keep my:
 
 ### Biomolecular Physics
 
+[Chemotaxis - Description via Coupled-Maps Lattice](https://github.com/jorgesalhani/ConclusionThesisBsc)
+
 [Computational Statistical Physics](https://github.com/jorgesalhani/CompStatatisticalPhysics)
 
 ### Miscellaneous
