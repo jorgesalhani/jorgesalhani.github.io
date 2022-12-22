@@ -2,7 +2,7 @@
 
 My intention with this page is to keep my:
 1.  Undergraduate projects - Computer Sciences 
-2.  Master projects - Basic Physics
+2.  Basic Physics projects
 3.  Undergraduate projects - Biomolecular Physics
 4.  Miscellaneous 
 
@@ -33,12 +33,6 @@ My intention with this page is to keep my:
 [Linear Algebra and Applications](https://github.com/jorgesalhani/LinearAlgebraApplications)
 
 ### Basic Physics
-
-#### Master Thesis
-
-[Modeling Brainstorming with Blackboard Systems](https://github.com/jorgesalhani/BlackboardSystems)
-
-#### Graduate disciplines
 
 [Mechanical Statistics](https://github.com/jorgesalhani/MechanicalStatistics)
 
