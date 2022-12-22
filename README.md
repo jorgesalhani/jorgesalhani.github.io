@@ -50,7 +50,7 @@ My intention with this page is to keep my:
 
 [Chemotaxis - Description via Coupled-Maps Lattice](https://github.com/jorgesalhani/ConclusionThesisBsc)
 
-[Computational Statistical Physics](https://github.com/jorgesalhani/CompStatatisticalPhysics)
+[Computational Statistical Physics](https://github.com/jorgesalhani/CompStatisticalPhysics)
 
 ### Miscellaneous
 
