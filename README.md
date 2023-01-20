@@ -62,6 +62,10 @@ My intention with this page is to keep my:
 
 [Haskell - First Steps](https://github.com/jorgesalhani/LearningHaskell)
 
+[Web Scraping - Pycharm focus dev](https://github.com/jorgesalhani/ScrapingAndGoogleApi)
+
+[Web Scraping - VScode focus build](https://github.com/jorgesalhani/WebScrapping)
+
 ### Support or Contact
 
 mail-me: jorge.salhani@usp.br
