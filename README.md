@@ -62,7 +62,7 @@ My intention with this page is to keep my:
 
 [Haskell](https://github.com/jorgesalhani/LearningHaskell)
 
-[Django - First Steps](https://github.com/jorgesalhani/LearningDjango)
+[Django <> MariaDB](https://github.com/jorgesalhani/LearningDjango)
 
 ### Miscellaneous - Automations
 
