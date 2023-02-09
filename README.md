@@ -46,21 +46,25 @@ My intention with this page is to keep my:
 
 [Computational Statistical Physics](https://github.com/jorgesalhani/CompStatisticalPhysics)
 
-### Miscellaneous
+### Miscellaneous - First Steps
 
-[HTML and CSS - First Steps](https://github.com/jorgesalhani/LearningCSS_HTML)
+[HTML and CSS](https://github.com/jorgesalhani/LearningCSS_HTML)
 
-[JavaScript - First Steps](https://github.com/jorgesalhani/LearningJS)
+[JavaScript](https://github.com/jorgesalhani/LearningJS)
 
-[Node.js - First Steps](https://github.com/jorgesalhani/LearningNodeJs)
+[Node.js](https://github.com/jorgesalhani/LearningNodeJs)
 
-[React.js - First Steps](https://github.com/jorgesalhani/LearningReactjs)
+[React.js](https://github.com/jorgesalhani/LearningReactjs)
 
-[JSON and AJAX - First Steps](https://github.com/jorgesalhani/LearningAjax)
+[JSON and AJAX](https://github.com/jorgesalhani/LearningAjax)
 
-[FastAPI - First Steps](https://github.com/jorgesalhani/LearningFastAPI)
+[FastAPI](https://github.com/jorgesalhani/LearningFastAPI)
 
-[Haskell - First Steps](https://github.com/jorgesalhani/LearningHaskell)
+[Haskell](https://github.com/jorgesalhani/LearningHaskell)
+
+[Django - First Steps](https://github.com/jorgesalhani/LearningDjango)
+
+### Miscellaneous - Automations
 
 [Web Scraping - Pycharm focus dev](https://github.com/jorgesalhani/ScrapingAndGoogleApi)
 
