@@ -8,6 +8,16 @@ My intention with this page is to keep my:
 
 ### Computer Sciences
 
+[File Organization](https://github.com/jorgesalhani/FileOrganization)
+
+[Functional Programming](https://github.com/jorgesalhani/FunctionalProgramming)
+
+- [On group! 💑](https://github.com/jorgesalhani/FunctionalProgramGroup)
+
+[Computational Modeling in Graphs](https://github.com/jorgesalhani/GraphsModelling)
+
+- [On group! 👨‍❤️‍👨](https://github.com/jorgesalhani/GraphModellingGroup)
+
 [Introduction to Data Science](https://github.com/jorgesalhani/IntroDataScience)
 
 [Introduction to Web Development](https://github.com/jorgesalhani/IntroWebDevelopment)
@@ -31,6 +41,10 @@ My intention with this page is to keep my:
 - [Set Operations](https://github.com/jorgesalhani/SetOperations) 
 
 [Linear Algebra and Applications](https://github.com/jorgesalhani/LinearAlgebraApplications)
+
+[Object-Oriented Programming](https://github.com/jorgesalhani/OOP)
+
+[Advanced Topics in Computer Science I](https://github.com/jorgesalhani/TopicsVisComp)
 
 ### Basic Physics
 
