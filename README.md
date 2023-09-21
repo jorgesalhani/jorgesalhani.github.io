@@ -8,6 +8,10 @@ My intention with this page is to keep my:
 
 ### Computer Sciences
 
+[Artificial Intelligence](https://github.com/jorgesalhani/artificialIntelligence)
+
+[Object-Oriented Analysis and Design](https://github.com/jorgesalhani/ObjAnalysisAndDesign)
+
 [File Organization](https://github.com/jorgesalhani/FileOrganization)
 
 [Functional Programming](https://github.com/jorgesalhani/FunctionalProgramming)
