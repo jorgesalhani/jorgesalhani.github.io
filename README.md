@@ -8,6 +8,8 @@ My intention with this page is to keep my:
 
 ### Computer Sciences
 
+[Advanced Algorithms and Applications](https://github.com/jorgesalhani/advancedAlgorithms)
+
 [Numerical Analysis](https://github.com/jorgesalhani/numericalAnalysis)
 
 [Artificial Intelligence](https://github.com/jorgesalhani/artificialIntelligence)
