@@ -26,6 +26,10 @@ My intention with this page is to keep my:
 
 - [On group! 👨‍❤️‍👨](https://github.com/jorgesalhani/GraphModellingGroup)
 
+[Computer Organization and Architecture](https://github.com/jorgesalhani/computerOrganizationArquitecture)
+
+- [On group! 👨‍❤️‍👨](https://github.com/jorgesalhani/compOrganizArchitectTeam)
+
 [Introduction to Data Science](https://github.com/jorgesalhani/IntroDataScience)
 
 [Introduction to Web Development](https://github.com/jorgesalhani/IntroWebDevelopment)
@@ -53,6 +57,24 @@ My intention with this page is to keep my:
 [Object-Oriented Programming](https://github.com/jorgesalhani/OOP)
 
 [Advanced Topics in Computer Science I](https://github.com/jorgesalhani/TopicsVisComp)
+
+[Computer Graphics](https://github.com/jorgesalhani/computerGraphics2)
+
+[Advanced Algorithms and Applications](https://github.com/jorgesalhani/advancedAlgorithms)
+
+[Compilers](https://github.com/jorgesalhani/compilers)
+
+[Numerical Analysis](https://github.com/jorgesalhani/numericalAnalysis)
+
+[Operation Systems 1](https://github.com/jorgesalhani/operatingSystems1)
+
+[Mathematical Programming](https://github.com/jorgesalhani/mathematicalProgramming)
+
+[Stochastic Process](https://github.com/jorgesalhani/stochasticProcesses)
+
+[Databases](https://github.com/jorgesalhani/databases)
+
+[Computer Networks](https://github.com/jorgesalhani/computerNetworks)
 
 ### Basic Physics
 
@@ -85,6 +107,8 @@ My intention with this page is to keep my:
 [Haskell](https://github.com/jorgesalhani/LearningHaskell)
 
 [Django <> MariaDB](https://github.com/jorgesalhani/LearningDjango)
+
+[Spark](https://github.com/jorgesalhani/LearningSpark)
 
 ### Miscellaneous - Automations
 
