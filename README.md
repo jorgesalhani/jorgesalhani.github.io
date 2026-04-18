@@ -18,6 +18,10 @@ My intention with this page is to keep my:
 
 [File Organization](https://github.com/jorgesalhani/FileOrganization)
 
+[Computer Networks](https://github.com/jorgesalhani/computerNetworks)
+
+- [On group! 💑](https://github.com/jorgesalhani/computerNetworksTeam)
+
 [Functional Programming](https://github.com/jorgesalhani/FunctionalProgramming)
 
 - [On group! 💑](https://github.com/jorgesalhani/FunctionalProgramGroup)
@@ -73,8 +77,6 @@ My intention with this page is to keep my:
 [Stochastic Process](https://github.com/jorgesalhani/stochasticProcesses)
 
 [Databases](https://github.com/jorgesalhani/databases)
-
-[Computer Networks](https://github.com/jorgesalhani/computerNetworks)
 
 ### Basic Physics
 
