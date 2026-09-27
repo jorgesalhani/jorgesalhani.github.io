@@ -18,6 +18,10 @@ My intention with this page is to keep my:
 
 [File Organization](https://github.com/jorgesalhani/FileOrganization)
 
+[High Performance Computing](https://github.com/jorgesalhani/HighPerformanceComputing)
+
+- [On group! 💑](https://github.com/jorgesalhani/HighPerformanceComputingTeam)
+
 [Computer Networks](https://github.com/jorgesalhani/computerNetworks)
 
 - [On group! 💑](https://github.com/jorgesalhani/computerNetworksTeam)
